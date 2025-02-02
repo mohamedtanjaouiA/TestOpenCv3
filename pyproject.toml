@@ -1,0 +1,21 @@
+[project]
+name = "CodeMarocAndroid"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "CodeMarocAndroid", email = "you@example.com" }
+]
+dependencies = [
+  "flet"
+]
+
+[tool.flet]
+org = "com.CodeMarocAndroid"
+product = "CodeMarocAndroid"
+company = "CodeMarocAndroid"
+copyright = "Copyright (C) 2025 by CodeMarocAndroid"
+
+[tool.flet.app]
+path = "src"
