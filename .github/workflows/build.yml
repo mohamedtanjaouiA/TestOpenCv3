@@ -1,5 +1,5 @@
-#name: All Builds (Linux, macOS, Windows, Android, IPA, APK, AAB)
-name : APK  
+##name: All Builds (Linux, macOS, Windows, Android, IPA, APK, AAB)
+name : (APK,)
 on:
   # Runs on push to any of the below branches
   push:
